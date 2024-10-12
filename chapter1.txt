@@ -1,1 +1,3 @@
+I am inside the chapter 3	HELLO GUYS
+
 hello everyone learning the git and GitHub education
