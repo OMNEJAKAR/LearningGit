@@ -1,3 +1,1 @@
-I am inside the chapter 3	HELLO GUYS
-
-hello everyone learning the git and GitHub education
+The Lone Lighthouse Keeper: Old Man Jacob lived in a lighthouse, alone with his cat. Each night, he watched the waves crash, waiting for the ships to pass safely. One stormy night, he saw a ship in distress and sent out a flare. The ship’s crew was saved, and they brought gifts to thank him. Jacob realized he was never truly alone; he had the sea and his duty.
